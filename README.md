@@ -45,3 +45,4 @@ If you have purchased [Elementor Pro](https://elementor.com/pro/?utm_source=gith
 - Join our [Facebook Group](https://www.facebook.com/groups/Elementors/).
 - Learn from our tutorials on [YouTube Channel](https://www.youtube.com/c/elementor).
 - Or rate us on [WordPress](https://wordpress.org/support/plugin/elementor/reviews/?filter=5/#new-post) :)
+
